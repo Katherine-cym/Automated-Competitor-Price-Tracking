@@ -1,7 +1,7 @@
 # Automated Competitor Price Tracking
 
 This UiPath Studio solution automates the end-to-end process of competitor price monitoring for Company ABC, an e-commerce seller active on Shopee & Lazada.
-The bot replaces a tedious, error-prone manual workflow with a scalable, unattended RPA process that runs weekly.
+The workflow replaces a tedious, error-prone manual way with a scalable, unattended RPA process that runs weekly.
 
 ## Business Objective
 - Maintain competitive pricing to protect market share, sales volume and profitability.
